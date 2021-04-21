@@ -13,10 +13,10 @@ This repository is a demonstration of the Flask web framework using the Python l
 6. Flask defaults to localhost 127.0.0.1 Port 500, so enter `http://127.0.0.1:5000/home` to visit home page, then navigate to other pages and use the tools/resources for calculating Exam Logistics!
 
 
-Sample Images:
+Sample Images:<br/>
 ![](images/GradeResolved.png)
+![](images/ExamWeight.png)
+![](images/Sentient.png)
 ![](images/ExpectedAverage.png)
 ![](images/LowAverage.png)
 ![](images/ExamResults.png)
-![](images/ExamWeight.png)
-![](images/Sentient.png)
